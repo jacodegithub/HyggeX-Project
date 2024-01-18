@@ -10,7 +10,6 @@ export default function App() {
       <Paths />
       <Content />
       <FAQ />
-      Hello world!
     </div>
   )
 }
